@@ -1,2 +1,4 @@
 reddit_auth.py
-
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
